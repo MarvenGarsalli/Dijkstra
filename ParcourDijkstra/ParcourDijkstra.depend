@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463517447 source:c:\users\marven\desktop\c++\parcourdijkstra\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
